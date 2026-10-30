@@ -1,0 +1,40 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Reign of the Septims",
+    "description": "A stable, modern, vanilla++ Oblivion. A Wabbajack conversion of the community-driven modding guide by ARavenOfManyHats, built with the maintainers' permission.",
+    "author": "ARavenOfManyHats (guide) / PastelCrows (conversion)",
+    "maintainers": [
+      "github/PastelCrows"
+    ],
+    "game": "oblivion",
+    "tags": [
+      "SFW",
+      "Vanilla+",
+      "Steam",
+      "GOG",
+      "DLC Required"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/PastelCrows/rots-modlists/main/reign-of-the-septims.webp",
+      "readme": "https://github.com/PastelCrows/Reign-of-the-Septims",
+      "download": "TODO-after-cdn-upload",
+      "machineURL": "ReignOfTheSeptims",
+      "discordURL": "https://discord.com/invite/UxACgBFh3m"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "TODO",
+      "Size": 0,
+      "NumberOfArchives": 0,
+      "SizeOfArchives": 0,
+      "NumberOfInstalledFiles": 0,
+      "SizeOfInstalledFiles": 0
+    },
+    "version": "1.7.6.0"
+  }
+]
